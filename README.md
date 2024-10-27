@@ -7,7 +7,7 @@ UTM Student
 I am a student studying in Bachelor of Computer Science (Data Engineering) with Honours in University of Technology Malaysia (UTM).
 
 * 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [nguxinyi0217@gmail.com](mailto:nguxinyi0217@gmail.com)
+* ✉️  You can contact me at [nguxinyi0217@gmail.com](mailto:nguxinyi0217@gmail.com)/[angelanguxin@graduate.utm.my](angelanguxin@graduate.utm.my)
 * 🚀  I'm currently working on [UTM E-learning](http://elearning.utm.my/24251/?redirect=0)
 * 🧠  I'm learning in Bachelor of Computer Science (Data Engineering) with Honours
 * 🤝  I'm open to collaborating on assignments and projects
