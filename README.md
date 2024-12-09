@@ -46,4 +46,4 @@ src="https://img.shields.io/github/followers/Angela127?logo=github&style=for-the
 
 <b>E-Portfolio</b>
 
-[Welcome to my portfolio](https://angela127.github.io/)
+Welcome to my [portfolio](https://angela127.github.io/)
