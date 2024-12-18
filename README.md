@@ -44,6 +44,4 @@ src="https://img.shields.io/github/followers/Angela127?logo=github&style=for-the
 
 <div width="100%" align="center"><a href="https://github.com/Angela127/Angela127" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Angela127&repo=Angela127&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<b>E-Portfolio</b>
-
-Welcome to my [portfolio](https://angela127.github.io/)
+> ✨ **"The journey of a thousand miles begins with one step."** — Lao Tzu  
