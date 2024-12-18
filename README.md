@@ -8,7 +8,7 @@ I am a student studying in Bachelor of Computer Science (Data Engineering) with 
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [angelanguxin@graduate.utm.my](mailto:angelanguxin@graduate.utm.my)
-* 🚀  I'm currently working on [UTM E-learning](http://elearning.utm.my/24251/?redirect=0)
+* 🚀  I'm currently working on my [e-portfolio](https://angela127.github.io/)
 * 🧠  I'm learning in Bachelor of Computer Science (Data Engineering) with Honours
 * 🤝  I'm open to collaborating on assignments and projects
 * ⚡  Well done is BETTER than well said
