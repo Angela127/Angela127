@@ -10,7 +10,8 @@ I am a student studying in Bachelor of Computer Science (Data Engineering) with 
 * ✉️  You can contact me at [angelanguxin@graduate.utm.my](mailto:angelanguxin@graduate.utm.my)
 * 🚀  I'm currently working on my [e-portfolio](https://angela127.github.io/)
 * 🧠  I'm learning in Bachelor of Computer Science (Data Engineering) with Honours
-* 🤝  I'm open to collaborating on assignments and projects
+* 🤝  I'm open to collaborating on assignments and projects (exp: [EWA WORKSPACE](https://github.com/Angela127/ewa-workspace.git))
+* 💼  I'm now one of the [AIROST](https://fke.utm.my/airost/) member
 * ⚡  Well done is BETTER than well said
 
 <a href="https://www.github.com/Angela127" target="_blank" rel="noreferrer"><img
