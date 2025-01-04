@@ -11,7 +11,7 @@ I am a student studying in Bachelor of Computer Science (Data Engineering) with 
 * 🚀  I'm currently working on my [e-portfolio](https://angela127.github.io/)
 * 🧠  I'm learning in Bachelor of Computer Science (Data Engineering) with Honours
 * 🤝  I'm open to collaborating on assignments and projects (exp: [EWA WORKSPACE](https://github.com/Angela127/ewa-workspace.git))
-* 🌟  I'm now one of the [AIROST](https://fke.utm.my/airost/) member
+* 🌟  I'm now one of the [AIROST](https://fke.utm.my/airost/) and [TEDxUTM](https://www.instagram.com/tedxutm_/) member
 * ⚡  Well done is BETTER than well said
 
 <br>
@@ -40,8 +40,8 @@ I am a student studying in Bachelor of Computer Science (Data Engineering) with 
 > 🕮 Committee of Library
 
 ### 🏛️ **Degree** 
-> 👩‍💻 AIROST member
-
+> 👩‍💻 AIROST member <br>
+> 🎤 TEDxUTM member
 <br>
 
 ## 🛠️ **Skills**
