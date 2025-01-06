@@ -53,13 +53,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🎖️ Awards
 
-### [Sarawak SPM Top Achiever](https://www.theborneopost.com/2023/06/08/better-results-for-spm-candidates-in-swak-as-684-score-straight-as/) 
-- **Place**: SMK Green Road  
-- **Date**: 08 June 2023  
+### Sarawak SPM Top Achiever
+📍 SMK Green Road  
+🗓️ 08 June 2023  
+🔗 [Read More](https://www.theborneopost.com/2023/06/08/better-results-for-spm-candidates-in-swak-as-684-score-straight-as/)
 
-### [Academic Excellence Award](https://news.utm.my/ms/2024/11/utmspace-julang-kecemerlangan-graduan-sempena-majlis-konvokesyen-ke-68/)
-- **Place**: Dewan Kencanapuri, Pulai Spring Resort  
-- **Date**: 17 November 2024
+### Academic Excellence Award
+📍 Dewan Kencanapuri, Pulai Spring Resort  
+🗓️ 17 November 2024 <br>
+🔗 [Read More](https://news.utm.my/ms/2024/11/utmspace-julang-kecemerlangan-graduan-sempena-majlis-konvokesyen-ke-68/)
 
 <br>
 
