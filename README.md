@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 <br>
 <div align="right">
-<img src="https://github.com/Angela127/Angela127/blob/9299c7a159095f0ed3202c6335708dbe5812c804/cat-computer.gif" align="right" style="width: 100%" />
+<img src="https://github.com/Angela127/Angela127/blob/9299c7a159095f0ed3202c6335708dbe5812c804/cat-computer.gif" align="right" style="width: 100%; height: 80%"/>
 </div>  
 
 * ✉️  You can contact me at [angelanguxin@graduate.utm.my](mailto:angelanguxin@graduate.utm.my)
