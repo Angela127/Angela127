@@ -8,6 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://github.com/Angela127/Angela127/blob/9299c7a159095f0ed3202c6335708dbe5812c804/cat-computer.gif" align="right" style="width: 100%; height: 80%"/>
 </div>  
 
+<br>
 * ✉️  You can contact me at [angelanguxin@graduate.utm.my](mailto:angelanguxin@graduate.utm.my)
 * 🚀  I'm currently working on my [e-portfolio](https://angela127.github.io/)
 * 🧠  I'm learning in Bachelor of Computer Science (Data Engineering) with Honours
