@@ -1,12 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angela Ngu Xin Yi
 =========================================================================================================================================
 
-UTM Student
------------
+🌟 **UTM Computer Science(Data Engineering) Student** | 🌏 Malaysia 
+---
 
-I am a student studying in Bachelor of Computer Science (Data Engineering) with Honours in University of Technology Malaysia (UTM).
-
-* 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [angelanguxin@graduate.utm.my](mailto:angelanguxin@graduate.utm.my)
 * 🚀  I'm currently working on my [e-portfolio](https://angela127.github.io/)
 * 🧠  I'm learning in Bachelor of Computer Science (Data Engineering) with Honours
