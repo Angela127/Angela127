@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌟  I'm now one of the [AIROST](https://fke.utm.my/airost/) and [TEDxUTM](https://www.instagram.com/tedxutm_/) member
 * ⚡  Well done is BETTER than well said
 
-<br>
+<br><br>
 
 ## 🎓 **My Education Journey**
 ### 🏫 **Primary School** (📅 2012 - 2017)  
