@@ -54,6 +54,17 @@ I am a student studying in Bachelor of Computer Science (Data Engineering) with 
 
 <br>
 
+## 🎖️ Awards
+
+### [Sarawak SPM Top Achiever](https://www.theborneopost.com/2023/06/08/better-results-for-spm-candidates-in-swak-as-684-score-straight-as/) 
+- **Place**: SMK Green Road  
+- **Date**: 08 June 2023  
+
+### [Academic Excellence Award](https://news.utm.my/ms/2024/11/utmspace-julang-kecemerlangan-graduan-sempena-majlis-konvokesyen-ke-68/)
+- **Place**: Dewan Kencanapuri, Pulai Spring Resort  
+- **Date**: 17 November 2024
+
+<br>
 
 ## 📂 **My Projects**
 Here are some of my favorite projects that I've worked on:  
