@@ -44,7 +44,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🏛️ **Degree** 
 > 👩‍💻 AIROST member <br>
-> 🎤 TEDxUTM member
+> 🎤 TEDxUTM2025 member
 <br>
 
 ## 🛠️ **Skills**
