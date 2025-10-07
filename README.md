@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angela Ngu Xin Yi
 =========================================================================================================================================
 
-🌟 **UTM Computer Science(Data Engineering) Student** | 🌏 Malaysia 
+🌟 **UTM Computer Science (Data Engineering) Student** | 🌏 Malaysia 
 ---
 <br>
 <div align="right">
@@ -69,6 +69,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🗓️ 17 November 2024 <br>
 🔗 [Read More](https://news.utm.my/ms/2024/11/utmspace-julang-kecemerlangan-graduan-sempena-majlis-konvokesyen-ke-68/)
 
+### 2nd Place of Robocup Malaysia Open 2025 @ Home Education 🎖️
+📍 Universiti Malaysia Perlis (UniMAP)  
+🗓️ 18 August 2025 <br>
+🔗 [Read More](https://news.utm.my/2025/08/utm-airost-won-two-awards-at-robocup-malaysia-open-2025/)
+
 <br>
 
 ## 📂 **My Projects**
@@ -106,15 +111,6 @@ Here are some of my favorite projects that I've worked on:
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Angela127/Angela127" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Angela127&repo=Angela127&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br>
-
-## 📜**YEAR 1 SEM 1**
-📚 SECR1513 - [Digital Logic](https://github.com/Angela127/Year-1/tree/main/Digital%20Logic) <br>
-📚 SECI1513 - [Discrete Structure](https://github.com/Angela127/Year-1/tree/main/Discrete%20Structure) <br>
-📚 SECJ1513 - [Programming Technique 1](https://github.com/Angela127/Year-1/tree/main/Programming%20Technique%201) <br>
-📚 SECP1513 - [Technology and Information System](https://github.com/Angela127/Year-1/tree/main/Technology%20and%20Information%20System) <br>
-📚 ULRS1032 - [Integrity and Anti-corruption](https://github.com/Angela127/Year-1/tree/main/Integrity%20and%20Anti-corruption)
 
 <br>
 
