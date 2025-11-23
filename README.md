@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [angelanguxin@graduate.utm.my](mailto:angelanguxin@graduate.utm.my)
 * 🚀  I'm currently working on my [e-portfolio](https://angela127.github.io/)
 * 🧠  I'm learning in Bachelor of Computer Science (Data Engineering) with Honours
-* 🤝  I'm open to collaborating on assignments and projects (exp: [EWA WORKSPACE](https://github.com/Angela127/ewa-workspace.git))
+* 🤝  I'm open to collaborating on assignments and projects (exp: [EWA WORKSPACE](https://github.com/Angela127/ewa-workspace.git) & [UTM ROCKETRY](https://github.com/yaotingchun/UTM-Rocketry-Website))
 * 🌟  I'm now one of the [AIROST](https://fke.utm.my/airost/) and [TEDxUTM](https://www.instagram.com/tedxutm_/) member
 * ⚡  Well done is BETTER than well said
 
@@ -44,7 +44,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🏛️ **Degree** 
 > 👩‍💻 AIROST member <br>
-> 🎤 TEDxUTM2025 member
+> 🎤 TEDxUTM2025 member <br>
+> ⚜️ UTM Freshman 2025 committee <br>
+> 📑 PERSAKA Academic exco <br>
+> 💹 TEDxUTM2026 HOD <br>
+> 🚀 UTM Rocketry Software and Website Department member <br>
 <br>
 
 ## 🛠️ **Skills**
@@ -83,6 +87,7 @@ Here are some of my favorite projects that I've worked on:
 |-------------------------|-------------------------------------|--------------------------|
 | 📝 **E-Portfolio**       | A showcase of my learning journey  | [View Project](https://angela127.github.io/) |
 | 💡 **EWA Workspace**    | My first website          | [View Project](https://github.com/Angela127/ewa-workspace.git)         |
+| 🚀 **Rocketry Website**    | UTM Rocketry website          | [View Project](https://github.com/yaotingchun/UTM-Rocketry-Website)         |
 
 > 🎯 **More Projects:** Check out my GitHub repositories [here](https://github.com/angela127?tab=repositories).
 > 
