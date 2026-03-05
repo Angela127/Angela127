@@ -12,12 +12,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
       - uses: actions/checkout@v5
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ Angela127 }}
+          USERNAME: Angela127
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
