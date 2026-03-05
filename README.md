@@ -103,7 +103,7 @@ Here are some of my favorite projects that I've worked on:
 ![](https://github-readme-stats.vercel.app/api?username=Angela127&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Angela127&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angela127&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a href="http://www.github.com/Angela127"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Angela127&bg_color=191919&color=ffffff&line=82aaff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
+![](https://raw.githubusercontent.com/Angela127/Angela127/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <a href="https://github.com/Angela127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angela127&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
