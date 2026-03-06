@@ -105,12 +105,6 @@ Here are some of my favorite projects that I've worked on:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angela127&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://raw.githubusercontent.com/Angela127/Angela127/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<a href="https://github.com/Angela127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angela127&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Angela127/Angela127" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Angela127&repo=Angela127&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br>
 
 ** **
